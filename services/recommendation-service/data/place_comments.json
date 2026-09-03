@@ -1,0 +1,20 @@
+[
+  {
+    "id": "275f9965-b0bb-48ab-a2f5-d77f54294ccf",
+    "place_id": "test-place",
+    "parent_id": null,
+    "email": "commenttest_1788246603@example.com",
+    "name": "Comment Tester",
+    "text": "[deleted]",
+    "created_at": "2026-09-01T07:10:06.396169+00:00"
+  },
+  {
+    "id": "f3f37f84-5481-406c-8471-34d50e020d46",
+    "place_id": "test-place",
+    "parent_id": "275f9965-b0bb-48ab-a2f5-d77f54294ccf",
+    "email": "commenttest_1788246603@example.com",
+    "name": "Comment Tester",
+    "text": "Me too!",
+    "created_at": "2026-09-01T07:10:07.301370+00:00"
+  }
+]

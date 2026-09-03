@@ -1,0 +1,194 @@
+[
+  {
+    "id": "premiere-maison-paulina-hotel",
+    "name": "Paulina Hotel",
+    "Town": "Yaound\u00e9",
+    "quarter": "Premiere Maison",
+    "sector": "A comfortable boutique hotel in the heart of Premiere Maison, with warm service and easy access to the quarter's shops and market.",
+    "tags": [
+      "city"
+    ],
+    "avg_cost_per_day": null,
+    "latitude": 3.925155251118392,
+    "longitude": 11.540705936308242
+  },
+  {
+    "id": "premiere-maison-institut-nourha-couture",
+    "name": "Institut Nourha Couture",
+    "Town": "Yaound\u00e9",
+    "quarter": "Premiere Maison",
+    "sector": "A couture and tailoring institute making custom outfits and teaching dressmaking to local apprentices.",
+    "tags": [
+      "culture"
+    ],
+    "avg_cost_per_day": 5000,
+    "latitude": 3.9278154301516337,
+    "longitude": 11.542028563184864
+  },
+  {
+    "id": "premiere-maison-bsa-event",
+    "name": "BSA Event",
+    "Town": "Yaound\u00e9",
+    "quarter": "Premiere Maison",
+    "sector": "An event planning and rental service for weddings, ceremonies and celebrations in the quarter.",
+    "tags": [
+      "romance"
+    ],
+    "avg_cost_per_day": 10000,
+    "latitude": 3.9278154301516337,
+    "longitude": 11.542028563184864
+  },
+  {
+    "id": "premiere-maison-honor-bilingual-complex",
+    "name": "Honor Bilingual Complex",
+    "Town": "Yaound\u00e9",
+    "quarter": "Premiere Maison",
+    "sector": "A well-regarded bilingual (French/English) school complex serving families in Premiere Maison.",
+    "tags": [
+      "culture"
+    ],
+    "avg_cost_per_day": 0,
+    "latitude": 3.9276979237862304,
+    "longitude": 11.542259293979871
+  },
+  {
+    "id": "premiere-maison-regional-glacier",
+    "name": "Regional Glacier",
+    "Town": "Yaound\u00e9",
+    "quarter": "Premiere Maison",
+    "sector": "A cheerful ice cream and dessert spot, popular with families and a favorite stop on a hot afternoon.",
+    "tags": [
+      "food"
+    ],
+    "avg_cost_per_day": 1000,
+    "latitude": 3.9268211746776758,
+    "longitude": 11.541709623124332
+  },
+  {
+    "id": "san-francisco-carrefour",
+    "name": "Carrefour San Francisco",
+    "Town": "Yaound\u00e9",
+    "quarter": "San Francisco",
+    "sector": "The lively crossroads at the heart of San Francisco \u2014 street food stalls, drink spots and the buzz of the quarter after dark.",
+    "tags": [
+      "city",
+      "food"
+    ],
+    "avg_cost_per_day": 500,
+    "latitude": 3.940072754119338,
+    "longitude": 11.54754061973501
+  },
+  {
+    "id": "san-francisco-smef-cafe-boulangerie",
+    "name": "Smef Caf\u00e9 Boulangerie",
+    "Town": "Yaound\u00e9",
+    "quarter": "San Francisco",
+    "sector": "Fresh bread, pastries and coffee \u2014 a favorite morning stop for locals grabbing breakfast on the way out.",
+    "tags": [
+      "food"
+    ],
+    "avg_cost_per_day": 100,
+    "latitude": 3.93856824836245,
+    "longitude": 11.547545410639112
+  },
+  {
+    "id": "san-francisco-bill-pressing",
+    "name": "Bill Pressing",
+    "Town": "Yaound\u00e9",
+    "quarter": "San Francisco",
+    "sector": "A reliable neighborhood pressing shop for laundry and dry cleaning, priced per item.",
+    "tags": [],
+    "avg_cost_per_day": 1000,
+    "latitude": 3.9385058868942266,
+    "longitude": 11.547495225960615
+  },
+  {
+    "id": "san-francisco-black-and-brown-hair-salon",
+    "name": "Black and Brown Hair Salon",
+    "Town": "Yaound\u00e9",
+    "quarter": "San Francisco",
+    "sector": "A popular salon for braids, cuts and styling, known for friendly service and steady queues on weekends.",
+    "tags": [
+      "romance"
+    ],
+    "avg_cost_per_day": 500,
+    "latitude": 3.9383706629991306,
+    "longitude": 11.547525932748865
+  },
+  {
+    "id": "san-francisco-beauty-with-grace",
+    "name": "Institut de Beaut\u00e9 Beauty with Grace",
+    "Town": "Yaound\u00e9",
+    "quarter": "San Francisco",
+    "sector": "A beauty institute offering skincare, manicures and grooming treatments in a relaxed setting.",
+    "tags": [
+      "romance"
+    ],
+    "avg_cost_per_day": 1000,
+    "latitude": 3.937375070640093,
+    "longitude": 11.547199511028431
+  },
+  {
+    "id": "san-francisco-princesse-hadidja-fashion",
+    "name": "Princesse Hadidja Fashion",
+    "Town": "Yaound\u00e9",
+    "quarter": "San Francisco",
+    "sector": "A fashion boutique with ready-to-wear and made-to-order outfits for every occasion.",
+    "tags": [
+      "romance"
+    ],
+    "avg_cost_per_day": 3000,
+    "latitude": 3.938065208777835,
+    "longitude": 11.547653166957849
+  },
+  {
+    "id": "terminus-carrefour",
+    "name": "Carrefour Terminus Nkolmbong",
+    "Town": "Yaound\u00e9",
+    "quarter": "Terminus",
+    "sector": "The busy crossroads at Terminus, lined with vendors and a steady flow of cars and bike men.",
+    "tags": [
+      "city"
+    ],
+    "avg_cost_per_day": 500,
+    "latitude": 3.931626962693766,
+    "longitude": 11.544116285158902
+  },
+  {
+    "id": "terminus-brigittes-johari",
+    "name": "Brigitte's Johari",
+    "Town": "Yaound\u00e9",
+    "quarter": "Terminus",
+    "sector": "restaurant bar where you can chop life with family and friends",
+    "tags": [
+      "romance"
+    ],
+    "avg_cost_per_day": 3500,
+    "latitude": 3.932419853291469,
+    "longitude": 11.544137738158991
+  },
+  {
+    "id": "terminus-mosquee-terminus",
+    "name": "Mosqu\u00e9e Terminus",
+    "Town": "Yaound\u00e9",
+    "quarter": "Terminus",
+    "sector": "The neighborhood mosque serving the Terminus community, open for daily prayers \u2014 visitors are welcome to admire the architecture respectfully.",
+    "tags": [
+      "culture"
+    ],
+    "avg_cost_per_day": 0,
+    "latitude": 3.9336767356705327,
+    "longitude": 11.544951714539879
+  },
+  {
+    "id": "terminus-auto-ecole-leclerc",
+    "name": "Auto \u00c9cole Leclerc",
+    "Town": "Yaound\u00e9",
+    "quarter": "Terminus",
+    "sector": "A driving school offering lessons and licensing preparation for new drivers.",
+    "tags": [],
+    "avg_cost_per_day": 15000,
+    "latitude": 3.929537716297133,
+    "longitude": 11.542289385662668
+  }
+]
