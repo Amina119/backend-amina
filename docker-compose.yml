@@ -1,11 +1,9 @@
-version: "3.9"
-
 services:
   rabbitmq:
     image: rabbitmq:3-management
     container_name: globetrotter_rabbitmq
     ports:
-      - "15672:15672"  # management UI, for local inspection only
+      - "127.0.0.1:15673:15672"
     healthcheck:
       test: ["CMD", "rabbitmq-diagnostics", "-q", "ping"]
       interval: 10s
@@ -59,7 +57,7 @@ services:
     build: ./gateway
     container_name: globetrotter_gateway
     ports:
-      - "5000:5000"
+      - "127.0.0.1:5100:5000"
     environment:
       - PORT=5000
       - USER_SERVICE_URL=http://user-service:5001

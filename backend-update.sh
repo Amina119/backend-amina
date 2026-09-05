@@ -1,6 +1,6 @@
 #!/bin/bash
 # GlobeTrotter Backend — update script
-# Run as root from ~/backend-amina
+# Run from ~/backend-amina after pushing changes to the repo.
 # Usage: bash backend-update.sh
 
 set -e
@@ -23,4 +23,4 @@ docker compose ps
 
 echo ""
 echo "✓ Backend updated!"
-echo "   Gateway running on 127.0.0.1:5100 (proxied via Nginx /api/)"
+echo "   Gateway → 127.0.0.1:5100"
